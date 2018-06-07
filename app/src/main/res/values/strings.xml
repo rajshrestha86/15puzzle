@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game_15 30304594</string>
+    <string name="alert_notice">To save the result, enter your name and press the \"Save Record\" button</string>
+    <string name="problemIsSolvable">The puzzle is solvable. Try your best !</string>
+    <string name="problemIsUnsolvable">Sorry. The puzzle does not have a solution. Try again.</string>
+    <string name="noResultSaved">No Results Saved</string>
+    <string name="save_record">SAVE RECORD</string>
+    <string name="cancel">CANCEL</string>
+</resources>
